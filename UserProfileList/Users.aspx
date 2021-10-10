@@ -106,7 +106,7 @@
                     </table>
                     </div>
                 </div>
-                <p class="mt-3 w-100 float-left text-center"><strong>Modren Profile Card</strong></p>
+                
     		</div>
                 </div>
             </div>
